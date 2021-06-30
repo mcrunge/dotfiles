@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = martin.runge@mailbox.org
+	name = martin runge
