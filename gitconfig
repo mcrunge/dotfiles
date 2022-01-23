@@ -52,3 +52,5 @@
 [user]
 	email = martin.runge@mailbox.org
 	name = Martin Runge
+[init]
+	defaultBranch = main
